@@ -15,7 +15,7 @@ fontsize = fontsize + "px";
 
 let style = `background: url(${imgfor});
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center top;
   background-size: contain;
   -webkit-background-clip: text;
   color: transparent;
