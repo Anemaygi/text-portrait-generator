@@ -1,0 +1,23 @@
+body{
+    background-color: #151515;
+  }
+  
+  #HereIsPicture {
+    color: transparent;
+  }
+  
+  footer{
+    color: white;
+    text-align: center;
+  }
+  
+  a{
+    color: rgb(155, 155, 155);
+    transition-delay: 0.2s;
+    transition-duration: 0.2s;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: white;
+  }
