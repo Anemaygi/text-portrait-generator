@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://anemaygi.github.io/text-portrait/">
+  <a href="https://anemaygi.github.io/text-portrait/" target="_blanc">
     <img width="400" src="https://i.imgur.com/UfYQk9a.png">
   </a>
 </p>
